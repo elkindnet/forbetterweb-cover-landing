@@ -1,10 +1,7 @@
 (function($) {
     $(document).ready(function() {
-
     /* IF YOU WANT TO APPLY SOME BASIC JQUERY TO REMOVE THE VIDEO BACKGROUND ON A SPECIFIC VIEWPORT MANUALLY
-
      var is_mobile = false;
-
     if( $('.player').css('display')=='none') {
         is_mobile = true;       
     }
@@ -14,9 +11,7 @@
     }else{
         $(".player").mb_YTPlayer(); 
     }
-
     });
-
 */
     /*  IF YOU WANT TO USE DEVICE.JS TO DETECT THE VIEWPORT AND MANIPULATE THE OUTPUT  */
 
@@ -29,6 +24,4 @@
                 'video-background-default-image');
         }
     });
-
-
 })(jQuery);

@@ -30,7 +30,6 @@ a:hover {
   border-radius: 2px;
 }
 
-
 /*
  * Base structure
  */
@@ -41,7 +40,7 @@ body {
   background-color: #000;
 }
 body {
-  font-family: Roboto, arial, sans-serif;
+  font-family: Roboto, sans-serif;
   color: #fff;
   text-align: center;
   text-shadow: 0 1px 3px rgba(0,0,0,.5);
@@ -51,7 +50,7 @@ body {
 .site-wrapper {
   display: table;
   width: 100%;
-  height: 100%; /* For at least Firefox */
+  height: 100%;
   min-height: 100%;
 }
 .site-wrapper-inner {
@@ -68,7 +67,6 @@ body {
 .inner {
   padding: 30px;
 }
-
 
 /*
  * Header
@@ -103,7 +101,6 @@ body {
   text-decoration: none;
 }
 
-
 @media (min-width: 768px) {
   .masthead-brand {
     float: left;
@@ -112,7 +109,6 @@ body {
     float: right;
   }
 }
-
 
 /* VIDEO BACKGROUND */
 
@@ -154,7 +150,7 @@ body {
 }
 
 .video-background-default-image {
-  background:url(img/1.jpg);
+  background:url(img/cover.jpg);
   background-repeat:no-repeat;
   background-position:center center;
   background-size:cover;
@@ -186,8 +182,8 @@ body {
 }
 
 .cover-heading {
-  font-family: "Great Vibes";
-  font-size: 100px;
+  font-family: "Great Vibes", serif;
+  font-size: 60px;
   transform: rotate(-6deg);
   -ms-transform: rotate(-6deg);
   -moz-transform: rotate(-6deg);
@@ -203,11 +199,6 @@ body {
   color: #999; /* IE8 proofing */
   color: rgba(255,255,255,.5);
 }
-
-
-/*
- * Affix and center
- */
 
 @media (min-width: 768px) {
   .masthead {
@@ -225,6 +216,10 @@ body {
   .mastfoot,
   .cover-container {
     width: 100%;
+  }
+
+  .cover-heading {
+    font-size: 100px;
   }
 }
 

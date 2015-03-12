@@ -32,15 +32,20 @@
 <body>
 
 <div class="site-wrapper video-background">
-    <!-- Video from YouTube -->
-    <a id="bgndVideo" class="player" data-property="{videoURL:'https://www.youtube.com/watch?v=S8fzTpBDj1k',containment:'body',autoPlay:true, mute:true, startAt:5, opacity:1}"></a>
+    <!--
+    Video from YouTube
+    Have Questions? How To:
+    https://github.com/pupunzi/jquery.mb.YTPlayer/wiki
+    -->
+    <a id="bgndVideo" class="player" data-property="{videoURL:'https://www.youtube.com/watch?v=S8fzTpBDj1k', containment:'body', autoPlay:true, mute:true, startAt:1, stopAt: 53, opacity:1, }"></a>
+
     <div class="overlay"></div>
 
     <div class="site-wrapper-inner">
 
             <div class="masthead clearfix">
                 <div class="inner">
-                    <h3 class="masthead-brand"><i class="fa fa-phone fa-fw"><a href="#"></i> (123) 456-7890</a></h3>
+                    <h3 class="masthead-brand"><i class="fa fa-phone fa-fw"><a href="tel:(123) 456-7890"></i> (123) 456-7890</a></h3>
                     <nav>
                         <ul class="nav masthead-nav">
                             <li><a href="mailto:elkind@elkind.net"><i class="fa fa-envelope fa-fw"></i></a></li>
@@ -58,12 +63,12 @@
                 <h1 class="cover-heading">Classic Cover</h1>
                 <p class="lead">Cover is a one-page template for building simple and beautiful home pages. Download, edit the text, and add video from YouTube video  to make it your own.</p>
                 <p class="lead">
-                    <a href="#" class="btn btn-lg btn-default">DOWNLOAD</a>
+                    <a href="http://forbetterweb.com/" class="btn btn-lg btn-default">DOWNLOAD</a>
                 </p>
             </div>
 
             <div class="mastfoot">
-                <div class="inner text-muted">
+                <div class="inner">
                     <p>Copyright &copy; <a href="/">Your Website</a></p>
                     <p>Cover template by <a href="http://forbetterweb.com/">ForBetterWeb</a></p>
                 </div>
@@ -74,15 +79,14 @@
     </div>
 </div>
 
-<!-- Bootstrap core JavaScript
-================================================== -->
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+<!-- jQuery -->
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
 
-<!-- Latest compiled and minified JavaScript -->
+<!-- Bootstrap core JavaScript -->
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/js/bootstrap.min.js"></script>
 
 <!-- Plugins and Custom JavaScript -->
-<script src="js/device.min.js"></script> <!--OPTIONAL JQUERY PLUGIN-->
+<script src="js/device.min.js"></script>
 <script src="js/jquery.mb.YTPlayer.js"></script>
 <script src="js/custom.js"></script>
 
