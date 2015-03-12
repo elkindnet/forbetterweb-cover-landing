@@ -1,10 +1,10 @@
-# [ForBetterWeb](http://forbetterweb.com/) - [Classic Cover](http://forbetterweb.com/htmlandbootstrap/one-page-starter-html-bootstrap/)
+# [ForBetterWeb](http://forbetterweb.com/) - [Classic Cover](http://forbetterweb.com/htmlandbootstrap/classic-cover-video-background-one-page-websites-html-bootstrap/)
 
 <img src="https://github.com/elkindnet/forbetterweb-cover-landing/gh-pages/screenshot.jpg">
 
-###[Live Demo](http://forbetterweb.com/htmlandbootstrap/one-page-starter-html-bootstrap/)   |   [Download](https://github.com/elkindnet/forbetterweb-cover-landing/archive/gh-pages.zip)
+###[Live Demo](http://forbetterweb.com/htmlandbootstrap/classic-cover-video-background-one-page-websites-html-bootstrap/)   |   [Download](https://github.com/elkindnet/forbetterweb-cover-landing/archive/gh-pages.zip)
 
-[Classic Cover](http://forbetterweb.com/htmlandbootstrap/one-page-starter-html-bootstrap/) - Classic Cover – Video Background One Page Websites for building simple and beautiful home pages. Download, edit the text, and add video from YouTube video to make it your own. [ForBetterWeb](http://forbetterweb.com/).
+[Classic Cover](http://forbetterweb.com/htmlandbootstrap/classic-cover-video-background-one-page-websites-html-bootstrap/) - Classic Cover – Video Background One Page Websites for building simple and beautiful home pages. Download, edit the text, and add video from YouTube video to make it your own. [ForBetterWeb](http://forbetterweb.com/).
 
 ## Getting Started
 
@@ -14,7 +14,7 @@ To use this template, choose one of the following options to get started:
 
 ## Bugs and Issues
 
-Have a bug or an issue with this template? [Open a new issue](https://github.com/elkindnet/forbetterweb-cover-landing/issues) here on GitHub or leave a comment on the [template overview page at ForBetterWeb](http://forbetterweb.com/htmlandbootstrap/one-page-starter-html-bootstrap/).
+Have a bug or an issue with this template? [Open a new issue](https://github.com/elkindnet/forbetterweb-cover-landing/issues) here on GitHub or leave a comment on the [template overview page at ForBetterWeb](http://forbetterweb.com/htmlandbootstrap/classic-cover-video-background-one-page-websites-html-bootstrap/).
 
 ## Creator
 
