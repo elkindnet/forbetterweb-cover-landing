@@ -191,6 +191,10 @@ body {
   -o-transform: rotate(-6deg);
 }
 
+small {
+    color:#ccc!important;
+}
+
 /*
  * Footer
  */
