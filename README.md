@@ -4,7 +4,7 @@
 
 ###[Live Demo](http://forbetterweb.com/htmlandbootstrap/classic-cover-video-background-one-page-websites-html-bootstrap/) | [Download](https://github.com/elkindnet/forbetterweb-cover-landing/archive/gh-pages.zip)
 
-[Classic Cover](http://forbetterweb.com/htmlandbootstrap/classic-cover-video-background-one-page-websites-html-bootstrap/) - Classic Cover – Video Background One Page Websites for building simple and beautiful home pages. Download, edit the text, and add video from YouTube to make it your own.
+Cover is a one-page template with video background for building simple and beautiful home pages. Download, edit the text, and add video from YouTube to make it your own.
 
 ## Creator
 
